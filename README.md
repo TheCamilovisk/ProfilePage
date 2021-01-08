@@ -6,31 +6,32 @@
 - Fun fact: I love video games and TV/web series (Sci-fi, fantasy and mistery, more precisely)
 
 ### Connect with me:
-[<img align="left" width="22px" src="icons/social/globe.png" alt="thecamilovisk.github.io/" />][website]
-[<img align="left" width="22px" src="icons/social/github.png" alt="TheCamilovisk | Github" />][github]
-[<img align="left" width="22px" src="icons/social/linkedin.png" alt="camilo-assis-a9712669 | LinkedIn" />][linkedin]
-[<img align="left" width="22px" src="icons/social/twitter.png" alt="camilolgon | Twitter" />][twitter]
+[<img align="left" height="30px" src="icons/social/globe.png" alt="thecamilovisk.github.io/" />][website]
+[<img align="left" height="30px" src="icons/social/github.png" alt="TheCamilovisk | Github" />][github]
+[<img align="left" height="30px" src="icons/social/linkedin.png" alt="camilo-assis-a9712669 | LinkedIn" />][linkedin]
+[<img align="left" height="30px" src="icons/social/twitter.png" alt="camilolgon | Twitter" />][twitter]
 
+<br />
 <br />
 
 ### Languages and Tools:
-[<img align="left" height="22px" src="icons/tools/jupyter.png" alt="Project Jupyter" />](https://jupyter.org/)
-[<img align="left" height="22px" src="icons/tools/vscode.png" alt="Visual Studio Code" />](https://code.visualstudio.com/)
-[<img align="left" height="22px" src="icons/languages/python.png" alt="Python Language" />](https://www.python.org/)
-[<img align="left" height="22px" src="icons/tools/anaconda.png" alt="Anaconda package" />](https://www.anaconda.com/)
-[<img align="left" height="22px" src="icons/tools/pandas.png" alt="Pandas library" />](https://pandas.pydata.org/)
-[<img align="left" height="22px" src="icons/tools/numpy.png" alt="Numpy library" />](https://numpy.org/)
-[<img align="left" height="22px" src="icons/tools/opencv.png" alt="OpenCV library" />](https://opencv.org/)
-[<img align="left" height="22px" src="icons/tools/sklearn.png" alt="Numpy library" />](https://scikit-learn.org/)
-[<img align="left" height="22px" src="icons/tools/pytorch.png" alt="Pytorch library" />](https://pytorch.org/)
-[<img align="left" height="22px" src="icons/tools/tensorflow.png" alt="Tensorflow library" />](https://www.tensorflow.org/?hl=pt-br)
-[<img align="left" height="22px" src="icons/tools/keras.png" alt="Keras library" />](https://keras.io/)
-[<img align="left" height="22px" src="icons/tools/Flask.png" alt="Sci-kit Learn framework" />](https://flask.palletsprojects.com/en/1.1.x/)
-[<img align="left" height="22px" src="icons/tools/django.png" alt="Django framework" />](https://www.djangoproject.com/)
-[<img align="left" height="22px" src="icons/languages/html5.png" alt="HTML 5" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-[<img align="left" height="22px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img align="left" height="22px" src="icons/languages/javascript.png" alt="JavaScript" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img align="left" height="22px" src="icons/tools/mysql.png" alt="MySQL" />](https://www.mysql.com/)
+[<img align="left" height="30px" src="icons/tools/jupyter.png" alt="Project Jupyter" />](https://jupyter.org/)
+[<img align="left" height="30px" src="icons/tools/vscode.png" alt="Visual Studio Code" />](https://code.visualstudio.com/)
+[<img align="left" height="30px" src="icons/languages/python.png" alt="Python Language" />](https://www.python.org/)
+[<img align="left" height="30px" src="icons/tools/anaconda.png" alt="Anaconda package" />](https://www.anaconda.com/)
+[<img align="left" height="30px" src="icons/tools/pandas.png" alt="Pandas library" />](https://pandas.pydata.org/)
+[<img align="left" height="30px" src="icons/tools/numpy.png" alt="Numpy library" />](https://numpy.org/)
+[<img align="left" height="30px" src="icons/tools/opencv.png" alt="OpenCV library" />](https://opencv.org/)
+[<img align="left" height="30px" src="icons/tools/sklearn.png" alt="Numpy library" />](https://scikit-learn.org/)
+[<img align="left" height="30px" src="icons/tools/pytorch.png" alt="Pytorch library" />](https://pytorch.org/)
+[<img align="left" height="30px" src="icons/tools/tensorflow.png" alt="Tensorflow library" />](https://www.tensorflow.org/?hl=pt-br)
+[<img align="left" height="30px" src="icons/tools/keras.png" alt="Keras library" />](https://keras.io/)
+[<img align="left" height="30px" src="icons/tools/Flask.png" alt="Sci-kit Learn framework" />](https://flask.palletsprojects.com/en/1.1.x/)
+[<img align="left" height="30px" src="icons/tools/django.png" alt="Django framework" />](https://www.djangoproject.com/)
+[<img align="left" height="30px" src="icons/languages/html5.png" alt="HTML 5" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+[<img align="left" height="30px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img align="left" height="30px" src="icons/languages/javascript.png" alt="JavaScript" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="left" height="30px" src="icons/tools/mysql.png" alt="MySQL" />](https://www.mysql.com/)
 
 <br />
 <br />
