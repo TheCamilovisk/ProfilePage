@@ -1,9 +1,9 @@
 ## Hi there, I'm Camilo - aka [TheCamilovisk][website]
 - I'm a Master Electrical Engineer by Federal University of Pará
-- I'm a Data Scientist and Machiner Learning Practitioneer
-- I'm a Ptyhon Developere and Enthusiast
+- I'm a Data Scientist and Machine Learning Practitioner
+- I'm a Python Developer and Enthusiast
 - I'm currently looking for work in fields I mentioned (by the way, any help with this would be appreciated)
-- Fun fact: I love video games and TV/web series (Sci-fi, fantasy and mistery, more precisely)
+- Fun fact: I love video games and TV/web series (Sci-fi, fantasy and mystery, more precisely)
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/open-iconic@1.1.1/svg/globe.svg" alt="thecamilovisk.github.io/" />][website]
