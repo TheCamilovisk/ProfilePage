@@ -46,3 +46,7 @@
 [website]: https://thecamilovisk.github.io/
 [linkedin]: https://www.linkedin.com/in/camilo-assis-a9712669/
 [twitter]: https://twitter.com/camilolgon
+
+### Latest Blog Posts:
+<!-- BLOG:START -->
+<!-- BLOG:END -->
