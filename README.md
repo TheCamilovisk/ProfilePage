@@ -49,4 +49,6 @@
 
 ### Latest Blog Posts:
 <!-- BLOG:START -->
+- [Customer Segmentation in Python](https://thecamilovisk.github.io//posts/Customer-Segmentation/)
+- [Collaborative Filtering based Recommender System](https://thecamilovisk.github.io//posts/Collaborative-Filtering-Recommender-System/)
 <!-- BLOG:END -->
