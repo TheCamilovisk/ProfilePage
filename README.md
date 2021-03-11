@@ -32,6 +32,8 @@
 [<img align="left" height="30px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img align="left" height="30px" src="icons/languages/javascript.png" alt="JavaScript" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img align="left" height="30px" src="icons/tools/mysql.png" alt="MySQL" />](https://www.mysql.com/)
+[<img align="left" height="30px" src="icons/languages/scala.png" alt="Scala language" />](https://www.scala-lang.org/)
+[<img align="left" height="30px" src="icons/tools/spark.png" alt="Apache Spark" />](https://spark.apache.org/)
 
 <br />
 <br />
