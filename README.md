@@ -2,7 +2,7 @@
 - I'm a Master Electrical Engineer by Federal University of Pará
 - I'm a Data Scientist and Machine Learning Practitioner
 - I'm a Python Developer and Enthusiast
-- I'm currently looking for work in fields I mentioned (by the way, any help with this would be appreciated)
+- I'm currently a Data Scientist at [Propz](https://propz.com.br/)
 - Fun fact: I love video games and TV/web series (Sci-fi, fantasy and mistery, more precisely)
 
 ### Connect with me:
