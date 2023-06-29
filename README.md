@@ -27,6 +27,7 @@
 [<img align="left" height="30px" src="icons/tools/tensorflow.png" alt="Tensorflow library" />](https://www.tensorflow.org/?hl=pt-br)
 [<img align="left" height="30px" src="icons/tools/keras.png" alt="Keras library" />](https://keras.io/)
 [<img align="left" height="30px" src="icons/tools/Flask.png" alt="Sci-kit Learn framework" />](https://flask.palletsprojects.com/en/1.1.x/)
+[<img align="left" height="30px" src="icons/tools/fastapi.png" alt="FastAPI framework" />](https://fastapi.tiangolo.com/)
 [<img align="left" height="30px" src="icons/tools/django.png" alt="Django framework" />](https://www.djangoproject.com/)
 [<img align="left" height="30px" src="icons/languages/html5.png" alt="HTML 5" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [<img align="left" height="30px" src="icons/languages/css3.png" alt="CSS 3" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
