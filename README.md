@@ -7,6 +7,7 @@
 
 ### Connect with me:
 [<img align="left" height="30px" src="icons/social/globe.png" alt="thecamilovisk.github.io/" />][website]
+[<img align="left" height="30px" src="icons/social/medium.png" alt="camilolgon | Medium" />][medium]
 [<img align="left" height="30px" src="icons/social/github.png" alt="TheCamilovisk | Github" />][github]
 [<img align="left" height="30px" src="icons/social/linkedin.png" alt="camilo-assis-a9712669 | LinkedIn" />][linkedin]
 [<img align="left" height="30px" src="icons/social/twitter.png" alt="camilolgon | Twitter" />][twitter]
@@ -46,12 +47,15 @@
 
 
 [github]: https://github.com/TheCamilovisk
+[medium]: https://medium.com/@camilolgon
 [website]: https://thecamilovisk.github.io/
 [linkedin]: https://www.linkedin.com/in/camilo-assis-a9712669/
 [twitter]: https://twitter.com/camilolgon
 
 ### Latest Blog Posts:
 <!-- BLOG:START -->
-- [Customer Segmentation in Python](https://thecamilovisk.github.io//posts/Customer-Segmentation/)
-- [Collaborative Filtering based Recommender System](https://thecamilovisk.github.io//posts/Collaborative-Filtering-Recommender-System/)
+- [Fake News Detection using Machine Learning](https://medium.com/@camilolgon/fake-news-detection-using-machine-learning-90ba8088fbd0)
+- [Introduction to YOLOv8](https://medium.com/@camilolgon/introduction-to-yolov8-8ce08589d95d)
+- [Customer Segmentation in Python](https://medium.com/@camilolgon/customer-segmentation-using-k-means-clustering-9e5e11a3165a)
+- [Collaborative Filtering based Recommender System](https://medium.com/@camilolgon/collaborative-filtering-based-recommender-system-from-scratch-38037932b877)
 <!-- BLOG:END -->
